@@ -3,9 +3,9 @@ namespace Aula13Uber
     public class Corrida
     {
         
-        private string localInicio { get; set; }
+        public string localInicio { get; set; }
 
-        private string localChegada { get; set; }
+        public string localChegada { get; set; }
 
         private string statusCorrida { get; set; }
 

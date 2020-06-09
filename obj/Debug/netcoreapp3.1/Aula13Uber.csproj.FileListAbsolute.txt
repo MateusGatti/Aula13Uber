@@ -1,0 +1,13 @@
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.exe
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.deps.json
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.runtimeconfig.json
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.runtimeconfig.dev.json
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.dll
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\bin\Debug\netcoreapp3.1\Aula13Uber.pdb
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.csprojAssemblyReference.cache
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.csproj.CoreCompileInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.AssemblyInfoInputs.cache
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.AssemblyInfo.cs
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.dll
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.pdb
+C:\Users\mtgat\Documents\Projetos\Aula13Uber\obj\Debug\netcoreapp3.1\Aula13Uber.genruntimeconfig.cache
